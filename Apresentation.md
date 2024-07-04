@@ -27,7 +27,6 @@ Criadora e ministrante do treinamento sobre Inteligência Emocional.
 Experiência em sistema de convênios, conta corrente e cartões. 
 
 Principais certificações e capacitações:
-
 PM3 e API Ágil
 - Fundamentos de Gestão de Produto: Conceitos e prática
 - Fundamentos em Product Operation
