@@ -27,33 +27,45 @@ Criadora e ministrante do treinamento sobre Inteligência Emocional.
 Experiência em sistema de convênios, conta corrente e cartões. 
 
 Principais certificações e capacitações:
+
 PM3 e API Ágil
 - Fundamentos de Gestão de Produto: Conceitos e prática
 - Fundamentos em Product Operation
 - Agile Project Specialist
+
 Software Zen
 - Governança ágil
+
 PM3
 - Design de Serviço
+
 Ka Solution
 - 1005 - ITIL® 4 Foundations
+
 Target Teal:
 - PESCA - Pensamento Sistêmico e Complexidade Aplicados
+
 Atlassian
 - Jira Administration for Cloud
+
 Keep Learning School
 - Reaprendizagem Criativa
 - Técnicas de Criatividade
+
 Management 3.0
 - Management 3.0 Fundamentals Online Workshop
 - Management 3.0 Módulo Melhores Feedbacks
 - Management 3.0 Módulo OKR & CNV Experience
+
 Kanban University
 - Team Kanban Practitioner - TKP
+
 Rocketskills
 - Automação Full Stack
+
 SCRUMstudy
 - Scrum Fundamentals Certified
+
 
 Idiomas: 
 B1 - Intermediário (faço aulas particulares regularmente)
